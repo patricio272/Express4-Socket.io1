@@ -1,0 +1,12 @@
+{
+  "name": "Simplest_Express4_Socket.io1_Integration",
+  "version": "1.0.0",
+  "description": "The Simplest Express 4.12.4 + Socket.io 1.3.5 integration.",
+  "main": "server.js",
+  "author": "Patricio Toledo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5"
+  }
+}
